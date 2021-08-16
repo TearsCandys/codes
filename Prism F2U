@@ -1,0 +1,45 @@
+
+    <table cellspacing="none" cellpadding="none"  style= "margin:auto;border:none;border-collapse:collapse;">
+        <colgroup>
+    <col span="2">
+    <col >
+        <thead>
+        <tr>
+            
+         
+                <th colspan="2" style ="
+            -webkit-text-stroke: 0.2px violet;
+            color: white;
+            font-family:helvetica;
+            background: linear-gradient(to right, #ff7591,#ffc587,#ffe787,#d4ff69,#69e3ff,violet);padding:10px;margin:auto;color:white;font-size:40px;"><i class="fas fa-heart"></i> name</th>
+            
+            <th colspan="1" ><div class="progress rounded-0"><div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
+            style="width:100%;padding:50px;background-color:grey;font-size:15px;border:none;">"insert quote here!"  </div></div></th>
+          
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr>
+            
+            <td><table style= "padding:auto;height:250px;width:260px;">
+                <tr><td style="color:#ff8fce;"><i class="fas fa-heart"></i> name(s)- - - - - - - - INSERT HERE</td></tr>
+                    <tr><td style="color:#ffb366;"><i class="fas fa-heart"></i> age/range - - - - - - INSERT HERE</td></tr>
+                    <tr><td style="color:#ffbf00;"><i class="fas fa-heart"></i> pronouns- - - - - - - INSERT HERE</td></tr>
+                    <tr><td style="color:#89e610;"><i class="fas fa-heart"></i> role(s)/job(s)- - - - - INSERT HERE</td></tr>
+                    <tr><td style="color:#24daff;"><i class="fas fa-heart"></i> species - - - - - - - - INSERT HERE</td></tr>
+                    <tr><td style="color:#ee99ff;"><i class="fas fa-heart"></i> zodiac sign- - - - - - INSERT HERE</td></tr>
+            </table></td>
+            
+            <td><p  style="padding: 125px; border: 0px solid #d9d9d9;font-size:10px;background-image: url('https://f2.toyhou.se/file/f2-toyhou-se/images/17112517_2g8mSZRM750KhPc.png');background-size:contain;"></p></td>
+            <td><div class="progress "><div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" 
+             style="padding:10px;text-align:left;height:250px;background-color:grey;font-size:14px;border:3px solid grey;max-width:300px;"><b>Background</b><p></p>"Insert background here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin vulputate ullamcorper. Aenean sed rutrum magna, eget suscipit nulla. Donec id leo purus. Maecenas placerat sapien at ipsum bibendum, id condimentum sapien semper. Proin aliquet nunc arcu, ut ultricies lectus convallis in. Vestibulum pulvinar accumsan lorem ac condimentum. Nullam quis metus venenatis, lobortis purus ut, sollicitudin dolor."</div></div></td>
+            
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr style="font-size:10px;"><td><a href='https://toyhou.se/couragedraws'>code credit: couragedraws   </a><p></p><a href='ART CREDIT URL HERE'>  artist credit: insert name</a></td></tr>
+        
+    </tfoot>
+    </table>
+

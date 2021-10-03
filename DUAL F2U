@@ -1,0 +1,18 @@
+<div class="col d-flex justify-content-center">
+    
+    <div class="row">
+  <div class="column" style= "width:200px;">
+    <div class="card text-white bg-dark" style="height:300px;border-radius:0px;"><div class="card-header progress-bar progress-bar-striped progress-bar-animated" style="width:200px;height:50px;background-color:#121e4a"><i class="fas fa-star fa-spin" style=" text-shadow: 0px 0px 5px #42d6ff;"></i><b style=" text-shadow: 0px 0px 5px #42d6ff;font-size:20px;">&nbsp;Name</b></div><img src="https://i.ibb.co/GkQmt6n/sorapfpp.png" style="margin-left:10%;margin-right:10%;margin-top:10%;margin-bottom:0px;"><span style="width:190px;margin:5px;font-size:11px;color:#6e6e6e;font-weight:500;">Insert short description here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget.</span></div></div>
+ 
+  
+<div class="row" style="margin:auto;">
+  <div class="column" style= "width:200px;margin:auto;">
+    <div class="card" style="margin:auto;height:300px;border-radius:0px;background-image:url('https://f2.toyhou.se/file/f2-toyhou-se/images/25840313_ZTZFxIora9Omggk.gif?1600119116');background-size:cover;color:white;background-repeat:round;"><span style="margin:10px;font-size:16px;"><i class="fas fa-quote-left"></i><b style=" text-shadow: 0px 0px 5px #FFFFFF;">&nbsp;insert quote here. Lorem ipsum dolor sit amet, consectetur adipiscing elit...&nbsp;</b><i class="fas fa-quote-right"></i><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p></p><p>&nbsp;</p><div style="line-height:0px;text-shadow: 0px 0px 5px #FFFFFF;"><p style=" text-shadow: 0px 0px 5px #ff99ad"><i class="fas fa-heart"></i><b>&nbsp;relationship:</b> <p></p>best friends forever</span></div></div>
+  </div>
+<div class="row">
+  <div class="column" style= "width:200px;">
+    <div class="card text-white bg-dark" style="height:300px;border-radius:0px;"><div class="card-header progress-bar progress-bar-striped progress-bar-animated" style="width:200px;height:50px;background-color:#4a1212"><i class="fas fa-star fa-spin" style=" text-shadow: 0px 0px 5px #ff4242;"></i><b style=" text-shadow: 0px 0px 5px #ff4242;font-size:20px;">&nbsp;Name</b></div><img src="https://i.ibb.co/BrrXLSh/kaitopfpp.png" style="margin-left:10%;margin-right:10%;margin-top:10%;margin-bottom:0px;"><span style="width:190px;margin:5px;font-size:11px;color:#6e6e6e;font-weight:500;">Insert short description here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget.</span></div></div></div>
+</div>
+</div>
+</div>
+<i class="justify-content-center" style="font-size:10px;"><a href='https://toyhou.se/couragedraws'>code credit: couragedraws</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='ART CREDIT URL HERE'>  artist 1 credit: insert name</a>&nbsp;&nbsp;&nbsp;<a href='ART CREDIT URL HERE'>  artist 2 credit: insert name</a>
